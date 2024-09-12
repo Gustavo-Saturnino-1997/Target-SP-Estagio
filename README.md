@@ -1,5 +1,6 @@
-🚀 Desafio de Estágio para Desenvolvedor - Target
-Este repositório contém as soluções para o desafio proposto pela Target, implementadas em JavaScript. A seguir, detalho cada questão e a respectiva solução, acompanhada da lógica de processamento e exemplos.
+                   🚀 Desafio de Estágio para Desenvolvedor - Target
+
+A seguir, detalho cada questão e a respectiva solução, acompanhada da lógica de processamento e exemplos.
 
 📋 Questão 1 - Valor da Variável SOMA
 Descrição
@@ -24,7 +25,7 @@ Lógica de Processamento:
 
 ![alt text](Q-1.png)
 
-📊 Questão 2 - Sequência de Fibonacci
+                 Questão 2 - Sequência de Fibonacci
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
@@ -32,8 +33,8 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 Lógica de Processamento:
 
 ![alt text](Q-2.png)
-
-📈 Questão 3 - Faturamento Diário
+ 
+                📈 Questão 3 - Faturamento Diário
 Descrição
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa que calcule e retorne:
 
@@ -50,7 +51,7 @@ Lógica de Processamento:
 ![alt text](Q-3.png)		  
 			  
 
-💡 Questão 4 - Percentual de Representação por Estado
+                Questão 4 - Percentual de Representação por Estado
 Descrição
 Dado o valor de faturamento mensal de uma distribuidora detalhado por estado, escreva um programa que calcule o percentual de representação de cada estado dentro do valor total mensal.
 
@@ -67,8 +68,7 @@ Lógica de Processamento:
 
 ![alt text](Q-4.png)
 
-Questão 5)
-Escreva um programa que inverta os caracteres de um string.
+             Questão 5 Escreva um programa que inverta os caracteres de um string.
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
